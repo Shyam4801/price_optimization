@@ -24,5 +24,5 @@ A standalone DQN-based optimizer using PyTorch.
 The DQN is able to match the profit obtained from the greedy search
 
 # References
-https://github.com/dennybritz/reinforcement-learning
-https://github.com/ikatsov/tensor-house
+* https://github.com/dennybritz/reinforcement-learning
+* https://github.com/ikatsov/tensor-house
